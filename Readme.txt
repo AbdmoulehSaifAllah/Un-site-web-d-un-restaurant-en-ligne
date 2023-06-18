@@ -1,1 +1,1 @@
-Un restaurant en ligne qui permet de livrer de la nourriture de qualité tout en minimisant le gaspillage alimentaire.
+Développer un site web d'un restaurant en ligne en JavaScript, Bootstrap, CSS, HTML, et PHP.
